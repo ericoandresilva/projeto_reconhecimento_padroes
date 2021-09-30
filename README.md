@@ -1,1 +1,1 @@
-# projeto_reconhecimento_padroes
+# Projeto Reconhecimento Padrões
