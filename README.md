@@ -1,0 +1,1 @@
+# projeto_reconhecimento_padroes
